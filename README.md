@@ -6,9 +6,7 @@
 
 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
+
 
 <!-- ================== END INTRO ================== -->
 <!-- PROFILE ICONS / SKILL BADGES -->
