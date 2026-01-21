@@ -1,3 +1,37 @@
+                           <!-- ================== ANIMATED INTRO ================== -->
+
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/> , I'm Divyanshu Singh
+</h1>
+
+<h3 align="center">
+  🚀 Java Backend Developer | Full Stack | Blockchain & Cloud
+</h3>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=24&
+    duration=3000&
+    pause=800&
+    center=true&
+    vCenter=true&
+    width=800&
+    lines=Java+Backend+Developer;
+    Spring+Boot+%7C+REST+APIs;
+    Blockchain+%26+Smart+Contracts;
+    AWS+Cloud+%7C+Scalable+Systems;
+    Always+Learning+%26+Building"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+<!-- ================== END INTRO ================== -->
 <!-- PROFILE ICONS / SKILL BADGES -->
 
 ## 🚀 Tech Stack Icons
