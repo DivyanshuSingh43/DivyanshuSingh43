@@ -44,4 +44,16 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
-## 📊 GitHub Stats <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=DIV&show_icDIVYANSHU SINGHons=true&theme=tokyonight&border_radius=15" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harxitsingh&layout=compact&theme=tokyonight&border_radius=15" /> </p>
+## 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DIVYANSHUSINGH)
+
+---
+
