@@ -1,4 +1,4 @@
-
+<h1 align="center">👋 Hi, I’m <span style="color:#00E8FF;">DIVYANSHU SINGH</span></h1>
 
 <h3 align="center">
   🚀 Java Backend Developer | Full Stack | Blockchain & Cloud
