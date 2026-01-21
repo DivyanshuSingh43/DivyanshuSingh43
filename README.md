@@ -44,3 +44,4 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
+## 📊 GitHub Stats <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=DIV&show_icDIVYANSHU SINGHons=true&theme=tokyonight&border_radius=15" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harxitsingh&layout=compact&theme=tokyonight&border_radius=15" /> </p>
