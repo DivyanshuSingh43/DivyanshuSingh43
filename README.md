@@ -1,4 +1,12 @@
-<h1 align="center">👋 Hi, I’m <span style="color:#00E8FF;">DIVYANSHU SINGH.</span></h1>
+<!-- 🔥 ULTRA PREMIUM ANIMATED NAME (LEXEND DECA + BLACK) -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&weight=700&size=40&duration=2000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=DIVYANSHU+SINGH;Full+Stack+&&+Cloud+Developer;MERN+%7C+Java+DSA+%7C+DevOps+Engineer" />
+</h1>
+
+<!-- 🌊 Animated Dark Wave -->
+<img src="https://raw.githubusercontent.com/ashutosh1919/theme-assets/master/wave-dark.svg" width="100%" />
+
+---
 
 <h3 align="center">
   🚀 Java Backend Developer | Full Stack | Blockchain & Cloud
