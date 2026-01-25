@@ -9,7 +9,7 @@
 ---
 
 <h3 align="center">
-  🚀 Java Backend Developer | Full Stack | Blockchain & Cloud
+  🚀 Java Backend Developer |  Blockchain & Cloud.
 </h3>
 
 
