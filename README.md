@@ -1,9 +1,11 @@
+<!-- 🔥 GitHub Streak + Activity Graph Combined -->
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DivyanshuSingh&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&currStreakLabel=%20&sideLabels=%20&dates=%20&ring=blueviolet&fire=blueviolet" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=DivyanshuSingh&theme=github-dark-blue&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuSingh&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuSingh&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 
