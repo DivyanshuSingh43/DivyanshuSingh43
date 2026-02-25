@@ -1,16 +1,4 @@
-<!-- 🔥 GitHub Streak + Activity Graph Combined -->
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DivyanshuSingh&theme=github-dark-blue&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuSingh&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DivyanshuSingh&theme=blue-navy&hide_border=true" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DivyanshuSingh&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&radius=8" />
