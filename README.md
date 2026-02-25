@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=harxitsingh&theme=tokyonight&hide_border=true&hide_total_contributions=true&hide_longest_streak=true&currStreakLabel=%20&sideLabels=%20&dates=%20&ring=blueviolet&fire=blueviolet" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harxitsingh&theme=tokyo-night&hide_border=true" />
+</p>
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Deca&weight=700&size=42&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Divyanshu+Singh+%F0%9F%91%8B;Full+Stack+Developer+%7C+Java+%7C+DSA;Blockchain+Enthusiast+%7C+Web3+Builder;Cloud+%7C+AWS+%7C+DevOps+Engineer;Always+Learning+%26+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
